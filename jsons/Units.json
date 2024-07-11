@@ -166,8 +166,14 @@
 		"interceptRange": 2,
 		"cost": 375,
 		"requiredTech": "Combustion",
-		"uniques": ["Can attack submarines", "[40]% chance to intercept air attacks", "+[50]% Strength vs [City]",
-			"May withdraw before melee ([50]%)", "+[100]% Strength vs [WaterSubmarine]", "Can move after attacking"],
+		"uniques": [
+			"Can attack submarines", 
+			"[40]% chance to intercept air attacks", 
+			"[+50]% Strength <vs cities>",
+			"May withdraw before melee ([50]%)", 
+			"[+100]% Strength <vs [Submarine] units>", 
+			"Can move after attacking"
+		],
 	},
 	{
 		"name": "Maid Cruiser",
@@ -181,8 +187,11 @@
 		"cost": 375,
 		"requiredTech": "Electronics",
 		"upgradesTo": "Missile Cruiser",
-		"uniques": ["Can attack submarines", "[60]% chance to intercept air attacks",
-			"+[100]% Strength vs [WaterSubmarine]", "Ranged attacks may be performed over obstacles"],
+		"uniques": [
+			"[60]% chance to intercept air attacks",
+			"[+100]% Strength <vs [Submarine] units>", 
+			"Ranged attacks may be performed over obstacles"
+		],
 		"promotions": ["Targeting I"]
 	},
 	{
