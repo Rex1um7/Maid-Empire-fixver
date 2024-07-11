@@ -167,7 +167,6 @@
 		"cost": 375,
 		"requiredTech": "Combustion",
 		"uniques": [
-			"Can attack submarines", 
 			"[40]% chance to intercept air attacks", 
 			"[+50]% Strength <vs cities>",
 			"May withdraw before melee ([50]%)", 
