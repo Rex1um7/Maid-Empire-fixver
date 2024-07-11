@@ -3,7 +3,7 @@
 		"name": "Maid Trooper",
 		"uniques": [
 			"[+50]% Strength vs [City]", 
-			"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"", 
+			"[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>", 
 			"[+5] HP when healing in [Foreign Land] tiles"
 		],
 	},
