@@ -218,8 +218,7 @@
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]", 
 			"Unbuildable", 
-			"[+1] Sight
-			", 
+			"[+1] Sight", 
 			"Invisible to others"
 		],
 		"movement": 3
