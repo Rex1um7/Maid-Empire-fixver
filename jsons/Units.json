@@ -87,7 +87,7 @@
 			"[+200]% Strength <vs cities>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
-			"Limited Visibility",
+			"[-1] Sight",
 			"Ranged attacks may be performed over obstacles"
 		],
 		"promotions": ["Maid Trooper", "Medic"],
