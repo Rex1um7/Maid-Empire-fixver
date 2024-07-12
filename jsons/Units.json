@@ -83,8 +83,13 @@
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
-			"Must set up to ranged attack","Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"uniques": [
+			"[+200]% Strength <vs cities>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"Limited Visibility",
+			"Ranged attacks may be performed over obstacles"
+		],
 		"promotions": ["Maid Trooper", "Medic"],
 	},
 	{
@@ -98,7 +103,11 @@
 		"requiredTech": "Combined Arms",
 		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","Ignores terrain cost", "[60]% chance to intercept air attacks"],
+		"uniques": [
+			"Can move after attacking",
+			"Ignores terrain cost", 
+			"[60]% chance to intercept air attacks"
+		],
 		"promotions": ["Maid Trooper", "Cover I"],
 	},
 	{
@@ -115,8 +124,11 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"upgradesTo": "MF 14",
-		"uniques": ["[100]% chance to intercept air attacks", "+[150]% Strength vs [Bomber]",
-			"6 tiles in every direction always visible"],
+		"uniques": [
+			"[100]% chance to intercept air attacks", 
+			"[+150]% Strength <vs [Bomber] units>"
+			//"6 tiles in every direction always visible"
+		],
 		"promotions": ["Bombardment I"],
 		"attackSound": "shot"
 		
@@ -150,9 +162,11 @@
 		"cost": 425,
 		"requiredTech": "Lasers",
 		"requiredResource": "Aluminum",
-		"uniques": ["[100]% chance to intercept air attacks",
-			"+[150]% Strength vs [Bomber]",
-			"6 tiles in every direction always visible"],
+		"uniques": [
+			"[100]% chance to intercept air attacks",
+			"[+150]% Strength <vs [Bomber] units>"
+			//"6 tiles in every direction always visible"
+		],
 		"promotions": ["Bombardment I"],
 		"attackSound": "shot"
 	},
@@ -198,8 +212,16 @@
 		"unitType": "Civilian",
 		"uniqueTo": "Maid Empire",
 		"replaces": "Great General",
-		"uniques": ["Can start an [8]-turn golden age", "Bonus for units in 2 tile radius 15%", "Can construct [Citadel]",
-			"Great Person - [War]", "Unbuildable", "[+1] Visibility Range", "Invisible to others"],
+		"uniques": [
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>", 
+			"[+15]% Strength bonus for [All] units within [2] tiles", 
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Great Person - [War]", 
+			"Unbuildable", 
+			"[+1] Sight
+			", 
+			"Invisible to others"
+		],
 		"movement": 3
 	},
 ]
