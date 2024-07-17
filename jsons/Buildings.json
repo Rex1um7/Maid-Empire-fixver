@@ -9,7 +9,7 @@
 		"cost": 90,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities", 
-			"[+1 Culture] <upon discovering [Archaelogy] technology>"
+			"[+1 Culture] <upon discovering [Archaeology] technology>"
 		],
 		"requiredTech": "Mathematics"
 	},
