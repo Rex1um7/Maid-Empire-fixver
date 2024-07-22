@@ -183,7 +183,7 @@
 		"uniques": [
 			"[40]% chance to intercept air attacks", 
 			"[+50]% Strength <vs cities>",
-			"May withdraw before melee ([50]%)", 
+			"Withdraws before melee combat <with [50]% chance>", 
 			"[+100]% Strength <vs [Submarine] units>", 
 			"Can move after attacking"
 		],
