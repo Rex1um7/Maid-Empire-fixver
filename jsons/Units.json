@@ -61,7 +61,7 @@
 	},
 	{
 		"name": "Maid Legion",
-		"unitType": "Gunpowder",
+		"unitType": "Armored",
 		"replaces": "Mechanized Infantry",
 		"uniqueTo": "Maid Empire",
 		"movement": 3,
@@ -94,7 +94,7 @@
 	},
 	{
 		"name": "Spider Tank",
-		"unitType": "Armor",
+		"unitType": "Armored",
 		"replaces": "Tank",
 		"uniqueTo": "Maid Empire",
 		"movement": 5,
@@ -172,7 +172,7 @@
 	},
 	{
 		"name": "Z-Destroyer",
-		"unitType": "WaterMelee",
+		"unitType": "Melee Water",
 		"replaces": "Destroyer",
 		"uniqueTo": "Maid Empire",
 		"movement": 7,
@@ -190,7 +190,7 @@
 	},
 	{
 		"name": "Maid Cruiser",
-		"unitType": "WaterRanged",
+		"unitType": "Ranged Water",
 		"uniqueTo": "Maid Empire",
 		"movement": 6,
 		"strength": 55,
